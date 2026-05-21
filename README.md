@@ -12,8 +12,9 @@ Ce projet est un exemple simple d'application **Node.js** utilisant **Express** 
 
 ### Installation
 ```bash
-# Clone du dépôt (déjà fait) ou placez vous dans le répertoire du projet
-cd "c:/Users/radim/OneDrive/Desktop/Authentification avec les sessions"
+# Clone du dépôt depuis GitHub
+git clone https://github.com/marouaneradi/Authentification-avec-les-sessions.git
+cd "Authentification avec les sessions"
 
 # Installer les dépendances
 npm install
